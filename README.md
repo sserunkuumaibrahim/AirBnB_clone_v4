@@ -66,7 +66,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time.
 
 ## Authors
-
+###### Version 4 Update
+- Sserunkuuma Ibrahim - [Github](https://github.com/sserunkuumaibrahim)
+-Nakivumbi Lydia - [Github](https://github.com/lydia299)
 ###### Version 4
 
 - Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
